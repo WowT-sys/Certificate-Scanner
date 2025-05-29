@@ -77,7 +77,8 @@ A **high-performance PowerShell script** to scan directories for signed executab
 ## Example Output
 
 ### HTML Output
-[HTML](https://files.catbox.moe/1pu1fk.png)
+![Screenshot](https://github.com/user-attachments/assets/3eae05aa-820a-4f07-b838-26344c9e8a71)
+
 
 ### Console
 ```plaintext
